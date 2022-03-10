@@ -1,0 +1,16 @@
+Nome: Gabriel Gonçalves de Oliveira - RA: 2111550021 - 2º ADS
+Atividade de Engenharia de Software I - Profª Diomara Barros
+
+-> Descrição do processo de Autenticação de um usuário em um sistema do departamento de Tecnologia da empresa
+
+-> Primeiro, o usuário acessa a tela de login da aplicação. Em seguida ele preenche os campos solicitados com as suas credenciais (login e senha).
+\_> A API da aplicação recebe as credenciais informadas pelo usuário e acessa/se comunica com o banco de dados. O banco de dados consulta com base no login informado se as credenciais do usuário estão registradas nele. Feito isso, o banco retorna para a API alguma informação
+\_> Aqui encontra-se uma condição onde, se a informação retornada for a de que as credenciais foram encontradas, valida-se na API as credenciais e permissões que aquele usuário possui. Caso as credenciais não tenham sido encontradas no banco é retornada uma mensagem para o usuário notificando que ele deve informar outras credenciais.
+\_> Após essa etapa, caso as credenciais sejam válidas, gera-se um token com base nelas e nas permissões do usuário. Caso não sejam válidas, é retornada outra mensagem para o usuário notificando que ele deve informar outras credenciais.
+\_> Em seguida, o token de acesso gerado é vinculado à sessão do usuário, ou seja, enquanto ele permanecer "logado" na aplicação o token não expira. Caso ele "deslogue" (saia) da aplicação precisará reinformar suas credenciais.
+\_> A partir daí o token é enviado ao usuário, passando a estar no "armazenamento local do navegador" (local storage), permitindo o acesso à aplicação.
+
+----------------------------------------
+
+* OBS: Como o Linux não tem suporte para o Bizagi Modeler, utilizei o software Draw.io para fazer a modelagem BPMN desse processo. Por isso a extensão do arquivo da modelagem é .drawio. Espero que ele possa ser aberto pelo Bizagi kkk. Agradeço desde já.
+* OBS 2: Caso ele não consiga ser aberto, enviei junto um arquivo .jpg e um .html que foram exportados pelo Draw.io, contendo a modelagem que fiz.
