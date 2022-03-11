@@ -1,0 +1,17 @@
+Conteúdos que cairão na 1ª Avaliação do 1º semestre, de Introdução à Computação:
+
+-> Geração de Computadores;
+-> História de Computadores;
+-> Arquitetura de Computadores;
+-> Processamento de Dados;
+-> Mémórias;
+-> ULA;
+-> UC;
+-> Representação da Informação;
+-> Sistema binários e as Unidades de Medida.
+
+-> Resumo dos conteúdos (31/03):
+\_> Geração de computadores, 
+\_>Representação da informação,
+\_>conversão de medidas,
+\_>processamento de dados.

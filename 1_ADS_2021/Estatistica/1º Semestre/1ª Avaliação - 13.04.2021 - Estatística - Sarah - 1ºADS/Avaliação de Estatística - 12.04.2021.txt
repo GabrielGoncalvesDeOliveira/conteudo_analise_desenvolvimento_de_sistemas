@@ -1,0 +1,101 @@
+Avaliação de Estatística - Ms. Sarah Rabelo de Souza
+
+Nome: Gabriel Gonçalves de Oliveira, RA: 2111550021, 1º ADS - 12/04/2021
+
+Acertos: 10/10 - Nota: 10,0 (glória a Deus!)
+
+Q1-) Qual variável, das listadas abaixo, é classificada como qualitativa nominal?
+
+A-) Marcas de Carro.
+
+------
+
+Q2-) Ao arredondarmos o número 44,99 para décimos (uma casa decimal) obteremos o número:
+
+C-) 45,0.
+
+------
+
+Q3-) Ao arredondarmos o número 26,6 para unidade obteremos o número:
+
+A-) 27.
+
+-----
+
+Q4-) Considere a tabela abaixo. Os dados em porcentagem da frequência relativa serão respectivamente, de janeiro a abril, aproximadamente os valores: 
+
+Evolução das receitas do café industrializado, jan/abril 2018
+
+Meses	       Valor (US $ milhões)	  fr %
+Janeiro	          33.3	
+Fevereiro	  54.1	
+Março	          44.5	
+Abril	          52.9	
+Total	          184.8	                  100%
+
+C-) 18%, 29%, 24%, 29%.
+
+-----
+
+Q5-) Em um condomínio com 100 residências, há 4 com 1 morador, 12 com 2 moradores, 23 com 3 moradores, 43 com 4 moradores, 8 com 5 moradores, 7 com 6 moradores e 3 com 7 moradores. A porcentagem de residências com 2 moradores será:
+Escolha uma opção:
+
+A-) 12.
+
+-----
+
+Q6-) Contou-se o número de erros de impressão da primeira página de um jornal durante 40 dias, obtendo-se resultado abaixo. Podemos afirmar que a porcentagem de 6 erros será: 
+
+2 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 9 10 10 10 11 11 11 12 12
+
+Escolha uma opção:
+
+B-) 15.
+
+-----
+
+Q7-) Considere a tabela abaixo:
+
+Tabela: Distribuição de notas de 200 alunos
+
+_______________________________________
+
+Notas              fi         fr (%)
+
+Abaixo de 5        24     ..............
+5,0 |-- 6,5        64     ..............
+6,5 |-- 8,0        60     ..............
+8,0 |-- 9,0        32     ..............
+9,0 |-- 10,0       20     ..............
+
+Total             200          100
+_________________________________________
+
+Os valores que completam a tabela na coluna de frequência relativa em porcentagem, da primeira à quinta classe, serão respectivamente:
+
+Escolha uma opção:
+
+B-) 12; 32; 30; 16; 10.
+
+-----
+
+8-) Qual variável, das listadas abaixo, é classificada como qualitativa ordinal?
+Escolha uma opção:
+
+D-) Grau de Instrução.
+
+-----
+
+9-) Contou-se o número de erros de impressão da primeira página de um jornal durante 40 dias, obtendo-se resultado abaixo. Podemos afirmar que a frequências de 10,11 e  12 erros, são respectivamente: 
+
+2 3 3 4 4 4 5 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 8 8 8 8 9 9 9 9 9 10 10 10 11 11 11 12 12
+
+Escolha uma opção:
+
+C-) 3, 3, 2.
+
+-----
+
+10-) O gráfico de linhas abaixo mostra a produção de leite de uma fazenda no primeiro semestre do ano de 2020.  O aumento de produção entre os meses de fevereiro e março foi de:
+
+E-) 44,1 Litros.

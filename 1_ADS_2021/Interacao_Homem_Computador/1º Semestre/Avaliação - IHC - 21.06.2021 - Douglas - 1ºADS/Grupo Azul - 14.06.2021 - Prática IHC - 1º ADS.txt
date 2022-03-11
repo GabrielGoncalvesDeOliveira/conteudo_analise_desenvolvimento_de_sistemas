@@ -1,0 +1,31 @@
+Grupo Azul
+
+Ivan Lucas, Renato, Gabriel Gonçalves, Matheus Rocha, Carlos Vinícius.
+
+Fazer uma descrição clara de como funcionaria uma aplicação para criar grupos e colocar pessoas neles.
+
+Estamos nos preparando para começarmos a coletar informações.
+
+No momento, nossa missão é elaborar questionários, ir atrás de pessoas que criam grupos, chefes de departamentos, etc.
+
+Precisamos nos preparar para entrevistar os usuários (como verdadeiros analistas). Vamos buscar conhecimento com os usuários, aqueles que vão criar os grupos. Não podemos influenciar as pessoas.
+
+-> Vamos preparar entrevistas, questionários, etc. A ideia é a gente aprender com os usuários, sem ir com uma ideia fechada antes. Porém precisamos de subsídios antes para fazermos as perguntas certas.
+
+-----------------------------
+
+Para semana que vem, precisamos trazer os dados, questionários, etc... Fazer todos os levantamentos necessários.
+
+O lance é nos prepararmos para fazer as perguntas e aprendermos com o usuário aquilo que precisa ser feito, o que ele quer. Não o que será feito, mas como coletaremos os dados.
+
+----------------
+
+Quanto mais formas de coleta de dados utilizarmos para a semana que vem, melhor terá ficado nosso trabalho.
+
+----------------
+
+Qual seu nome? Ao criar o grupo, prefere de forma aleatória ou em ordem alfabética? Gostaria de escolher a quantidade de pessoas por grupo, a cor dele, a opção de adicionar mais pessoas... O motivo para a criação do grupo, etc.
+
+Somos a equipe de IHC, analistas, de design, etc. O momento de fazer a aplicação não é agora.
+
+-> Para semana que vem, trazer todas as formas que utilizamos para coletar informações dos usuários (questionários, entrevistas, brainstorms, etc)... Trabalho em grupo. Sem criar telas e protótipos.

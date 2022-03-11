@@ -1,0 +1,19 @@
+-> Criar um questionário ou uma forma de entrevista para esta aplicação que fizemos da semana passada para agora.
+
+-> Desenvolver questões, objetivos e propostas para fazer o levantamento de requisitos para esta aplicação (listar os professores, selecionar um específico para visualizar os horários dele e a opção de enviar mensagens/entrar em contato com ele).
+
+-> Perguntas:
+
+\_> Qual é o propósito (o problema a se resolver) desta aplicação?
+\_> Quem seria beneficiado com isso?
+\_> Como a solução atual funciona, o que pode ser mantido e o que precisa ser alterado nela?
+\_> Quais os riscos envolvidos?
+\_> Como seria essa troca de informações entre o usuário e o sistema, e por meio dele?
+\_> Quais os principais detalhes técnicos / regras de negócio envolvidos?
+\_> A aplicação possuirá grande concorrência / grande tráfego de dados?  
+
+\_> Sobre a listagem dos professores, quantos precisam ser exibidos por página?
+\_> Quais informações/descrições destes precisam ser exibidas na página inicial?
+\_> Ao selecionar um professor, quais "novas" informações precisam ser exibidas ao usuário?
+\_> Sobre o contato entre o usuário e o professor, qual plataforma / rede social deve ser utilizada?
+\_> Quais campos de informações precisam ser preenchidos ou anexados pelo usuário, durante essa toda a interação com o sistema e por meio dele?

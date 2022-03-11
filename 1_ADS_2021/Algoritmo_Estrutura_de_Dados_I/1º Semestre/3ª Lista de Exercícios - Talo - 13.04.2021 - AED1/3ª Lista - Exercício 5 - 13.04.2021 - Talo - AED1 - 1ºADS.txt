@@ -1,0 +1,22 @@
+algoritmo cinco;
+var
+n, cont, cn, s, ci: inteiro;
+início
+cont = 1; cn = 0; s = 0; ci = 0;
+Enquanto (cont <= 15)
+faça { imprima "Digite um número: ";
+leia n;
+Se (n >= 30 e n <= 90)
+então {cn = cn + 1;}
+Se (n < 0)
+então { s = s + n;}
+q = n / 2;
+r = n - q * 2;
+Se (r = 1) // Se n é ímpar
+então {ci = ci + 1;}
+cont = cont + 1;
+}
+imprima "A quantidade de números entre 30 e 90: ", cn;
+imprima "A soma entre os negativos: ", s;
+imprima "A quantidade de ímpares: ", ci;
+fim.

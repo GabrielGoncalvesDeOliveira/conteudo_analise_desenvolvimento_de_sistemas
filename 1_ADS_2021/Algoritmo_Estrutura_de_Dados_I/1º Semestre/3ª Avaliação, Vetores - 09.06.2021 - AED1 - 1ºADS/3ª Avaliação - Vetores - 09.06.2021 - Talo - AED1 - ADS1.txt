@@ -1,0 +1,114 @@
+-> Exercício: Escreva um programa ou algoritmo que leia um vetor A de 6 elementos, do tipo inteiro. Em seguida gere o vetor B, também de 6 elementos e do tipo inteiro, da seguinte forma:
+- Guarde 0 em B se o conteúdo de A for: par e >= 10;
+- Guarde 1 em B para qualquer outro valor de A.
+- Mostre o vetor B.
+------------------------------
+
+Algoritmo vetor_Gerador_De_Vetor;
+
+Var
+
+     vetorA[6], vetorB[6], i, quoc, resto : Inteiro;
+
+Inicio
+
+     i <-- 0;
+
+     Repita {
+
+          Imprima "Por gentileza, digite um elemento: ";
+
+          Leia vetorA[ i ];
+
+          i <-- i + 1;
+
+     } Ate (i > 5);
+
+     i <-- 0;
+
+     Repita {
+
+          quoc <-- vetorA[ i ] / 2;
+
+          resto <-- vetorA[ i ] - quoc * 2;
+
+          Se (resto = 0 E vetorA[ i ] >= 10)
+
+          Entao { vetorB[ i ] <-- 0;
+
+          Senao { vetorB[ i ] <-- 1;
+
+          i <-- i + 1;
+
+     } Ate (i > 5);
+
+     i <-- 0;
+
+     Enquanto (i <= 5)
+
+     Faca { Imprima "O novo vetor B possui como ", i + 1, "º elemento o valor: ", vetorB[ i ];
+
+      i <-- i + 1;
+
+Fim.
+
+--------------------------
+
+* O mesmo algoritmo, porém em C++, utilizando a estrutura de repetição "do-while" como "repita", e o operador módulo (ou porcentagem) para cálculo/retorno do resto da divisão para descobrir se o elemento em questão é par:
+
+#include <iostream>
+
+#include <conio.h>
+
+using namespace std;
+
+#define T 6
+
+int vetorA[T], vetorB[T], i;
+
+int main() {
+
+	setlocale(LC_ALL,"");
+
+	i = 0;
+
+	do {
+
+		cout << "\n\t Por gentileza digite um elemento: ";
+
+		cin >> vetorA[i];
+
+		i++;
+
+	} while (i < 5);
+
+	i = 0;
+
+	do {
+
+		if (vetorA[i] % 2 == 0 && vetorA[i] >= 10) {	
+
+			vetorB[i] = 0;
+
+		} else {
+
+			vetorB[i] = 1;
+
+		} 
+
+		i++;
+
+	} while (i < 5);
+
+	i = 0;
+
+	while (i < 5) {
+		cout << "\n\t O novo vetor B possui como " << i + 1 << "º elemento o valor: " << vetorB[i] << ". \n";
+
+		i++;
+	}
+	getch();
+
+}
+
+Observação: A instrução "setlocale(LC_ALL," ");" foi utilizada para permitir o uso de acentos e caracteres especiais na hora de utilizar o cout para imprimir os valores. No caso, o símbolo 'º' (ordenação/graduação) necessita desta instrução para ser reconhecido corretamente.

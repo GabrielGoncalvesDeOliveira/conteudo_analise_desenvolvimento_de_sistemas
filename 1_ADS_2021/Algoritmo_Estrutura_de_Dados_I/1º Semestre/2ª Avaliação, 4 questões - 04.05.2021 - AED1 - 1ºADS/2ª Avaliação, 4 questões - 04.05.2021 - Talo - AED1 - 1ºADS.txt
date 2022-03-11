@@ -1,0 +1,122 @@
+2ª Avaliação - Algoritmo e Estrutura de Dados 1 - Luíz Carlos Begosso - 04.05.2021
+
+Questão 1-) Leia atentamente o algoritmo abaixo:
+
+algoritmo exemplo;
+
+var
+
+  i, n: inteiro;
+
+início
+
+   i =1; n = 0;
+
+   enquanto (i <= 10) faça
+
+      	{   n = n + 3;
+
+      	    imprima “O valor: “, n;
+
+      	    i = i + 2;
+       }
+fim.
+
+Assinale a alternativa que corresponda com a saída gerada pelo algoritmo.
+
+E-) 3 - 6 - 9 - 12 - 15
+
+-----------------
+
+Questão 2-) Dado o algoritmo abaixo. Analise-o com cuidado e responda as questões:
+
+Início
+
+	imprima “Digite um valor:”;
+
+	leia n;
+
+	fat ← 1;
+
+	enquanto (n > 1) faça {		
+
+		fat ← fat * n;
+
+	 	n ← n – 1;
+	}  	 
+
+	imprima “O valor é: “, fat;
+
+fim.
+
+1-) uponha que o usuário tenha digitado o número 4. Quantas vezes o laço enquanto...faça será executado?
+2-) Suponha que tenha sido digitado, para o valor de n, o número 6, qual será o conteúdo final da variável fat?
+
+E-) 3 vezes - 720
+
+----------------------
+
+Questão 3-) Escreva um algoritmo que calcule e mostre:
+
+* O valor de S;
+* A multiplicação entre todos os valores do numerador;
+* A subtração entre todos os valores do denominador
+
+O Algoritmo em português estruturado:
+
+Algoritmo calculador_de_Somatorio;
+
+Var
+      somatorio, numerador, denominador, multNumerador, subtDenominador: real;
+
+Inicio
+      somatorio <- 0;
+
+      numerador <- 1;
+
+      denominador <- 1;
+
+      multNumerador <- 1;
+
+      subtDenominador <- 0;
+
+      enquanto (denominador <= 50)
+
+      faca {  somatorio <- somatorio + numerador / denominador
+
+                   multNumerador <- multNumerador * numerador;
+
+                   subtDenominador <- subtDenominador - denominador;
+
+                   numerador <- numerador + 2;
+
+                   denominador <- denominador + 1;
+
+        imprima "O valor do somatório S é: ", somatorio;
+
+        imprima "O resultado da multiplicação entre todos os valores do numerador é: ", multNumerador;
+
+        imprima "O resultado da subtração entre todos os valores do denominador é: ", subtDenominador;
+
+Fim 
+
+--------------------
+
+Questão 4-) Leia atentamente o algoritmo abaixo:
+
+algoritmo prova;
+var
+	cont, n: inteiro;
+início
+	cont = 1; n = 20
+	Enquanto (cont <= n) faça
+	{	n = n / 2;
+	        imprima n;
+	        cont = cont + 1;
+        }
+fim.
+Assinale a alternativa que corresponda à saída do algoritmo.
+
+c-) 10 - 5 - 2
+
+-------------

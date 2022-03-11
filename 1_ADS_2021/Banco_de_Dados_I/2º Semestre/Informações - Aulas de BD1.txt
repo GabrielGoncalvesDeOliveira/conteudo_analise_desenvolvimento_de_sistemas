@@ -1,0 +1,11 @@
+-> Aulas de Banco de Dados 1 - Informações:
+
+-> Softwares utilizados:
+
+\_> DBDesignerFork
+\_> SqlDevelopment
+
+-> Login e senha do Oracle:
+
+ADS1_GABRIELOLIVEIRA
+97182370ggo$

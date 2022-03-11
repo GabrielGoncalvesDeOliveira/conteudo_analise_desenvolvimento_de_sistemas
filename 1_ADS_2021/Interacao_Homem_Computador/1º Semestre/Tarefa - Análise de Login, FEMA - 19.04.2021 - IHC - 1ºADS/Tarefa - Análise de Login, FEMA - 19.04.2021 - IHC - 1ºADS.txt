@@ -1,0 +1,25 @@
+Tarefa rapidex de Interação Homem Computador - IHC - Douglas Sanches
+
+Sequência de passos para fazer login na área do "Portal Acadêmico", a partir do site da FEMA.
+
+Com o computador ou aparelho Mobile ligado:
+
+1º Abrir o navegador.
+
+2º Digitar a URL ("Uniform Resource Locator", ou "Localizador Uniforme de Recursos") do site da FEMA (carregando o documento de compatibilidade do sistema, ao enviar requisição, ou entrando pela ferramenta de busca da Google, e selecionando o link correspondente a página inicial do site.
+
+3º Após carregar o site da FEMA, clicar no link com o título "Portal Acadêmico", localizado no cabeçalho da página, na lateral esquerda.
+
+4º Após isso, será redirecionado para uma página intermediária, responsável pelo envio do formulário (Login).
+
+5º No melhor cenário possível, informe o número de sua matrícula (no campo de texto, com título "Matrícula"), e a sua senha (no campo de texto com título "Senha").
+
+6º Em seguida, pressione o botão "Acessar", presente logo abaixo das caixas de texto anteriores. Isso enviará a requisição no corpo do formulário, retornando o documento da página correspondente a área do aluno, para o aluno em questão, caso esse seja válido.
+
+7º Após isso será exibida a página da "Área do Aluno", com as informações correspondentes ao aluno em questão (eu, no caso). Informação essas que estão exclusivamente vinculadas a minha matrícula (afinal, foi este o campo principal que inseri ao iniciar o preenchimento da tela de login).
+
+8º Agora, um dos botões circulares que é exibido é o botão para "localizar um professor". Clique aí e aguarde o carregamento da nova página. 
+
+9º O processo como um todo está finalizado e a partir daí o usuário pode acessar a localização do professor que quiser, desde que o sistema esteja disponível para essa visualização. A exibição dos nomes dos professores está ordenada alfabeticamente. 
+
+10º Por fim, ao clicar sobre o nome do professor, exibe-se uma página com as informações referentes aos dias de aula e horários que o professor em questão ministra, ao longo da semana. 

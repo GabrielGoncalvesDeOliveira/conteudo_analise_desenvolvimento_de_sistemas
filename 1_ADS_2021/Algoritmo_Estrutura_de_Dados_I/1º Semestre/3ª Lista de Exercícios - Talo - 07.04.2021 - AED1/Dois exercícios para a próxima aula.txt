@@ -1,0 +1,7 @@
+4-) Construir um algoritmo que leia 15 números inteiros e calcule a média aritmética apenas para os valores positivos. 
+
+R: Feito no caderno;
+
+5-) Escreva um algoritmo que leia 10 números reais e mostre quantos deles estão no intervalo [10,20].
+
+R: Feito no caderno;

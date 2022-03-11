@@ -1,0 +1,78 @@
+// Exercício: Avaliação de Matrizes - 11.08.2021 - AED1
+
+// Algoritmo: 
+
+Algoritmo soma_dos_elementos_de_uma_matriz;
+
+Var
+
+    matriz[4][2], soma, i, j : inteiro;
+
+Inicio
+
+    para (i <- 0; i < 4; i <- i + 1)
+       { para (j <- 0; j < 2; j <- j + 1)
+
+           { imprima "Por gentileza informe o elemento [", i, "][", j, "]: ";
+            leia matriz[ i ][ j ];
+
+    soma <- 0;
+
+    i <- 2;
+
+    para (j <- 0; j < 2; j <- j + 1)
+        { soma <- soma + matriz[ i ][ j ];
+
+    Imprima "A soma entre os elementos da 3ª linha é: ", soma;
+
+Fim
+
+
+
+// Exercício feito em C++:
+
+#include <iostream>
+
+#include <conio.h>
+
+using namespace std;
+
+#define L 4
+
+#define C 2
+
+int matriz[L][C], soma, i, j;
+
+int main() {
+
+	setlocale(LC_ALL,"");
+
+	cout << "\n\t Soma dos elementos de uma matriz: \n";
+
+	for (i = 0; i < L; i++) {
+
+		for (j = 0; j < C; j++) {
+
+			cout << "\n\t Por gentileza digite o elemento ["<< i <<"]["<< j <<"]: ";
+
+			cin >> matriz[i][j];
+
+		}
+
+	}
+
+	soma = 0;
+
+	i = 2;
+
+	for (j = 0; j < C; j++) {
+
+		soma += matriz[i][j];
+
+	}
+
+	cout << "\n\t A soma entre os elementos da 3ª linha da matriz é: " << soma;
+
+	getch();
+
+}

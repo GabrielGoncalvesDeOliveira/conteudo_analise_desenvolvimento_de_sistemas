@@ -1,0 +1,8 @@
+7ª Lista de Exercícios - Vetores - Exercícios Bônus:
+
+6) Escreva um algoritmo que leia um vetor de 5 elementos do tipo real. Este vetor armazena a temperatura em graus Celsius. Gere um outro vetor com o correspondente em graus Fahrenheit. A fórmula para a conversão de Celsius para Fahrenheit é: (9 / 5) * Celsius + 32. Mostre o vetor gerado.
+
+7) Escreva um algoritmo que leia um vetor de 20 elementos do tipo inteiro. Pede-se:
+a) A soma dos números positivos;
+b) A soma dos números negativos;
+c) A soma das duas somas parciais.

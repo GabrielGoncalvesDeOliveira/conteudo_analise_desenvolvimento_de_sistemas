@@ -1,0 +1,17 @@
+28/04/2021 - [19:40] Luiz Carlos Begosso - Algoritmo 5 - 4ª Lista de Exercícios:
+
+Algoritmo cinco;
+Var
+n, d, h: real;
+Início
+n ← 1; d ← 15; h ← 0;
+Enquanto (d >= 1) Faça
+h ← h + n / d**2;
+n ← n * 2;
+d ← d – 1;
+h ← h – n / d**2;
+n ← n * 2;
+d ← d – 1;
+imprima “A soma: “, h;
+fim.
+

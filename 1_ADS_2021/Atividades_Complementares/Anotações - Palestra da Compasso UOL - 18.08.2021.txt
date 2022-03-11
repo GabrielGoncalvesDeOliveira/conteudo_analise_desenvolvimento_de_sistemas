@@ -1,0 +1,93 @@
+-> Anotações - Palestra da Compasso UOL - 18/08/2021
+
+-> Palestrantes: Celso dos Santos Silva, Henrique Lima, Eduardo Pereira Nunes, e Robledo Conceição de Castro.
+
+-> Apresentação da empresa - Compasso UOL & Everymind
+
+\_> Eles constroem experiências digitais que geram o crescimento de empresas e melhoram a vida das pessoas.
+
+\_> Transformação Digital - Constroem as melhores experiências para atender o que o mercado pede e os negócios precisam.
+\_> São 19 estúdios (cada um funciona como uma pequena Startup, independente e ágeis): 
+
+- Digital Commerce; User Experience; Hyperautomation; Salesforce; Payment Solutions; Quality & Test Automation; Data & Analytics; SAP Services; Mobile Apps; Integration & Microservices; Infrastructure, Hybrid & Private Cloud; Agile Transformation; Cognitive Computing; Cyber Security; Agile Governance; Application Modernization.
+
+\_> A Everymind é agora uma empresa do grupo Compasso UOL. Uma união de forças.
+
+\_> Eles, junto com a Compasso UOL desenvolvem projetos relacionados à Salesforce (vendas, e-commerce, etc). Atuam em diversos segmentos.
+
+-> Princípios:
+
+1. O foco é o sucesso do cliente (Customer Success), através de entregas desde o início do projeto e gerando valor continuamente.
+2. Constroem um relacionamento de longo prazo. Ouvem seus clientes para entenderem profundamente suas necessidades e expectativas. Buscam sempre surpreendê-los.
+3. Entregam soluções de alta qualidade, buscando a melhor arquitetura e com capricho.
+
+-> Portfólio (Módulos do Salesforce):
+
+\_> Sales, Service, Einstein & Analytics, Community, Marketing, Commerce, Platform;
+\_> Projetos & Quick Start (projetos baseados em sprints menores, proporcionando ganhos rápidos); Serviços; Produtos: CPG-Shelfup (gerenciamento, execução de vendas e Trade Marketing prontos para uso), e o Team Up (a melhor forma de engajar seus fãs e promoção da marca em uma plataforma unificada).
+\_> Além de outros produtos como: Mulesoft, Marketing Cloud, Tableau, Healthcare & Life science, Financial Service Cloud, Consumer Goods.
+
+-> Alguns indicadores: Nível de satisfação, funcionários, clientes ativos, projetos em andamento, sem red accounts.
+
+-> Formação e atualização profissional:
+\_> Programa de Bolsas (talentos em formação nas instituições parceiras para aprendizagem em tecnologias estado-da-arte).
+\_> Fast Track (formação acelerada para pessoas que estão em início ou transição de carreira);
+\_> Shadow (etapa de aprendizado na prática, em projetos reais).
+
+-> Benefícios para o aluno:
+
+- Bolsa de R$ 500,00/mês por 20 horas semanais dedicadas ao programa;
+- Ter acesso a trilhas e metodologias desenhadas especificamente para o programa;
+- Capacitação por atividades online;
+- Possibilidade de efetivação durante e no final do programa;
+
+-> Formato de Trabalho (baseado na metodologia ágil):
+
+- 3 meses com sprints a cada duas semanas.
+
+- Head do IStudio (Product Owner);
+- Trilha de aprendizado (product Backlog);
+- Conteúdo a ser estudado (spring backlog);
+- Sprint (cada uma a cada 15 dias);
+- Scrum master;
+- Time formado (product);
+- Time contratado (alocação em Shadow, alocação em projeto, e agenda para certificação).
+
+-> Diferenciais da Plataforma:
+
+- Amigável para Iniciar (trilha de aprendizado progressiva).
+- Mais que um Framework (um ecossistema completo e integrado).
+- Documentação (toda a base consultiva é fornecida pela Salesforce).
+- Padrão de mercado (ECMASCRIPT6).
+
+-> Certificações: 
+
+-> Technical Architect.
+
+-> System Architect:
+- Development Lifecycle and deployment designer.
+- Identity and access management designer.
+- Integration architecture designer.
+- Platform developer.
+
+-> Application architect:
+- Data architecture and management designer.
+- Sharing and visibility designer.
+- Platform developer.
+- Platform app builder
+- Community cloud consultant (optional).
+
+-> Processo Seletivo:
+\_> Inscrição: 18/08 - 29/08.
+\_> Seleção: 30/08 - 03/09.
+
+- Cadastro;
+- Queremos conhecer você;
+- Sobre o curso e carreira;
+- Desafio lógico;
+- Bate papo em grupo.
+--------------------------
+
+-> Frase que vi em um status:
+
+- "É impossível um homem aprender aquilo que ele acha que já sabe."

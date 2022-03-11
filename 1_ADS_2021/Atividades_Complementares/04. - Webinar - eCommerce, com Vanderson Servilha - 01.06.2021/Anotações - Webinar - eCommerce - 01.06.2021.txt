@@ -1,0 +1,207 @@
+01/06/2021 - Anotações - Webinar - eCommerce, com o ex-aluno do curso de Análise e Desenvolvimento de Sistemas, Vanderson Servilha (coordenador de desenvolvimento da LINX).
+
+Mediação pelo professor (de BCC) Fernando Lima.
+
+-> Vanderson Servilha trabalhou como analista e desenvolvedor na Totvs, na VSM, na ViewTec e em outras empresas.
+\_> Um pouco da história dele.
+
+-> Graduado em Análise e Desenvolvimento de Sistemas - FEMA | 2015
+-> Especializado em Gestão de Projetos e Processos. Unoeste | 2017
+-> Especializado em gestão Integrada de Marketing. Unoeste | 2021
+-> MBA em gestão de Pessoas e Liderança
+
+-> Empresas TOTVS, TRAY, ViewTech (Automação industrial), Admake (Agência de E-Commerce).
+\_> Trabalhou na prefeitura, TopConnect, Capsula, Desk360, MaxColor, Comap, SME, Spotbizz.
+\_> Hoje ele trabalha na LINX
+
+-> eCommerce é voltado para produtos. Delivery é voltado para alimentos.
+
+-> História do E-Commerce no Brasil.
+
+\_> Tudo começou em 1995, com o "BookNet". A primeira transação (compra) online.
+\_> Em 1996 surgiu a loja virtual "Brasoftware". Aí veio o "Pão de Açúcar", o "Ponto Frio" e o "Submarino".
+
+-> Principais plataformas de E-Commerce do Brasil.
+\_> "Loja Integrada".
+\_> "Nuvemshop".
+\_> "Tray". Marketplace, integração,etc.
+\_> "VTEX"
+
+-> Marketplace é colocar um produto que fazemos em uma outra empresa para ser comercializado.
+\_> A oportunidade de fazer isso, para ampliar seu alcance, engajamento e vendas (consequentemente os lucros).
+
+-> Se cadastrar no mercado livre.
+
+-> Os números do E-Commerce.
+\_> Nós vivemos de dados. De direcionar dados para algum lugar.
+
+\_> Os homens compram mais eletrônicos, telefones e celulares, e produtos de informática.
+\_> As mulheres compram mais produtos de moda e acessórios, telefones e celulares, cosméticos, perfumaria e bem-estar.
+
+\_> Nossa função é mostrar ao cliente aquilo que ele quer ver. Direcionar ele ao produto que resolverá os seus problemas. Usar técnicas para isso.
+\_> O sucesso do E-Commerce é converter vendas.
+
+\_> O principal receio de comprar na internet é pelo medo de fraude no cartão. Em seguida, o receio de que o produto não seja entregue.
+\_> Conseguimos aplicar esses números em nosso e-commerce.
+\_> Os meios de pagamentos mais utilizados são o cartão de crédito (parcelado), e em seguida pelo boleto.
+\_> As categorias de produtos mais comprados são: 
+* Telefonia e celulares
+* eletrônicos,
+* eletrodomésticos
+* informática, etc.
+
+\_> O que te motivaria a comprar mais vezes pela internet? R: Ter frete grátis em todas as compras.
+
+\_> Os setores mais acessados no Brasil são o de moda, eletrônicos, educação e livros, etc.
+
+\_> A Black Friday é o ápice do logista, o dia que o comércio (e o e-commerce) bombam.
+
+-> A pandemia impulsionou a criação de novos e-commerces e serviços de delivery de alimentos.
+-> Notícias como:
+\_> "Vagas de emprego no e-commerce crescem", "e-commerce brasileiro tem a maior alta em 20 anos", "um novo e-commerce por minuto durante a pandemia", etc...
+
+-> Os setores que mais cresceram durante a pandemia foram: eletrônicos, casa, moda, comida, etc...
+
+-> O E-Commerce nos ajuda até a ter um calendário.
+\_> Datas como "Dia da mulher", "Páscoa", "Dia do consumidor", "Dia do orgulho Nerd", "dia dos namorados", "Dia das Crianças", "Black Friday", "Natal", etc.
+\_> O E-Commerce no final do ano dá sempre uma bombada... 
+
+-> As mulheres no E-Commerce fazem uma grande diferença.
+
+-> Rede Social X E-Commerce.
+
+-> A ideia é surpreender o cliente. O produto chegar inteiro e com qualidade.
+\_> Se a entrega for ruim não adianta ter um produto/processo de venda bom.
+
+-> Omnichannel - A bola da vez.
+
+\_> A possibilidade de devolver um produto em diferentes terminais. Canais conectados, tudo em um único canal.
+
+\_> Exemplo: Comprar no site. Troca na loja física. Pagar fatura em outra cidade.
+\_> Você autônomo conectado na rua x, com o shopping da rua y, etc.
+\_> O Cliente quer ter este conforto. 
+
+-> Perguntas feitas:
+
+-> Dicas para migrar clientes de outras plataformas para o próprio site:
+
+* Deixar um cartão da empresa na hora da entrega. Ou um cupom de desconto, para o cliente descobrir na hora de tirar a embalagem do produto.
+
+-> É comprovado que o cartão de crédito é o queridão da vez. A vantagem do Boleto é que as plataformas engajam mais, por uma questão de preço (os preços são melhores).
+
+-> Como que é preparada a Black Friday:
+\_> É um dia furioso. O pessoal do atendimento/ relacionamento com o cliente ficam doidos, cada turma se revezando de dia, tarde e de noite, por vezes virados... Sempre garantindo que o atendimento/sistema não falhe. Ajudam-se muitas pessoas, é uma sensação muito boa, insana.
+\_> É uma experiência enriquecedora e exigente ao mesmo tempo.
+
+-> Quando tudo voltar ao normal, o e-commerce será deixado para trás? Não! Ele não será deixado, continuará como uma tendência. As pessoas voltarão para as ruas, para fazerem suas compras e tals, porém, o e-commerce veio para ficar.
+
+-> Ter influencer's engajando a marca, usando os produtos, anunciando, etc. 
+R: Ter uma pessoa que veste a camisa (literalmente), que apresenta a marca, o produto, com certeza ajudam muito a aumentar o engajamento (alcançar os fãs do influencer). Porém, a marca tende a ficar bem sujeita ao influencer. No caso, a imagem dele. Caso ele faça alguma besteira, a marca será prejudicada. 
+\_> É necessário fazer uma boa escolha na hora de escolher um influencer. É uma ideia que funciona.
+
+-> O que leva uma loja a não migrar para os meios online/e-commerce?
+R: Geralmente, uma questão de lojística. Até o pessoal ser treinado certinho, ou tipo, em casos de negócios bem tradicionais, encontra-se isso. Uma questão de gestão/estratégica (ou falta dela).
+
+-> Para API de pagamentos:
+* Mercado Pago.
+\_> Quanto mais opções puderem ser usadas como meios de pagamento, melhor. Paypal, Nubank, parcelamento, Cielo, PagSeguro, etc.
+
+-> Se tratando da experiência do cliente:
+\_> O pessoal de TI que se relaciona com UI, UX, são os que acabaram de desenvolver a habilidade de conversar e entender o cliente, o que ele precisa, e conseguiram implementar isso de forma eficiente.
+\_> É pensar no lado do cliente. Em facilitar a vida dele, trazer mais conforto, facilidade, etc. Nada substiui o contato humano. Desenvolver mais empatia. Testar hipóteses, a qualidade de software/ do produto, etc. 
+\_> Utilizar pessoas que acabam se adaptando com tecnologias cada vez mais rápido. É ser um "Camaleão".
+
+-> Qual a melhor maneira de identificar se um site é seguro? (Existem gatilhos para identificar isso, e serão apresentados a seguir).
+
+-> Parte 3: Backoffice do E-Commerce (por trás das câmeras).
+
+\_> Desenvolvimento (tecnologias e frameworks como):  Java, aspnet, ruby, PHP, React-Native, etc.
+\_> Dados. Pesquisa, coleta, tentar prever as possibilidades do cliente, evoluções, etc. BI (Business Inteligence).
+\_> UX (Design): é uma realidade. Design de sites, interfaces. Dale Douglas. Estamos recheados de empresas de qualidade a nossa volta.
+
+-> O que um Designer faz (exemplos de sites):
+* H2O Purificadores. Vende refil para purificadores de água.
+* RemotoX. Peças de veículos.
+* Ingressos Magic Blue. Vender ingressos (passagens) para a Disney. 
+* F&F Equipamentos digitais. Lentes de câmeras, bolsas e cases, e tripés.
+* Chefstock. Serviços para criação de estabelecimentos que comercializam alimentos. Se você quer montar uma padaria, ou uma cozinha, ou algo do tipo, este é o site ideal.
+
+-> Quando se tem um serviço muito específico, o lance é utilizar imagens para agregar valor. Depoimentos/testemunhos, etc. E aí sim apresentar os valores.
+\_> Usar filtros de busca para facilitar o acesso do cliente.
+-> "As pessoas querem coisas fáceis."
+\_> Um lance psicológico. As aulas do Douglas nunca fizeram tanto sentido kkkk.
+
+-> Integrações, na sua maioria, são feitas por API.
+\_> API = conectar o meu serviço (e-commerce) com um serviço de uma outra empresa. 
+\_> É a possibilidade de comunicar com outro setor, outro serviço. E tem que ser uma resposta rápida.
+\_> Exemplo de uma "Consulta de API": na hora de pesquisar o frete de alguma compra, o serviço conecta-se com uma outra empresa (os Correios, por exemplo) e retorna os dados/informações que o cliente precisa. 
+\_> Exemplo: calcular frete com base no endereço, validar prazo, etc.
+\_> O serviço é consumido e retorna uma informação. Validações, consultas e respostas rápidas.
+
+-> Gateway de Pagamento.
+\_> Exemplos: Yapay, Cielo, Mercado Pago, wirecard, rede, getnet, pagseguro, uol, etc.
+
+-> Gateway de Frete (segue a mesma lógica).
+\_> Aftersale, flixlog, freteFácil, freterápido, intelipost, etc.
+
+-> Dropshipping - É uma modalidade de e-commerce.
+\_> Onde o cliente compra o produto em sua loja, porém você não tem esse produto estocado na sua loja propriamente dita. Aí, através da compra em sua loja, você entra em contato com o fornecedor e o fornecedor envia o produto diretamente ao seu cliente.
+\_> O forncedor envia o produto diretamente para o cliente.
+\_> Ajuda muito quem não tem condições de comprar os seus próprios produtos.
+
+-> Sistema ERP
+\_> Comunicação entre e-commerce e a loja física. Geralmente, em questão de estoques e facilidade nas vendas. Uma ferramenta de gestão.
+\_> Estoques, serviços, produção, financeiro, vendas, CRM, compras, MRP, e o e-commerce propriamente dito.
+\_> "Se algum produto é comprado online, é feita a baixa na loja física, ou vice-versa, etc."
+
+-> Gestão de atendimento.
+\_> Jivochat, desk360, etc.
+\_> Você entrega formulários e consegue fazer com que o cliente selecione o local específico de que queira receber atendimento. Utilizar chats dentro do e-commerce, para atender o cliente, tirar dúvidas, etc. Colocar funcionários que entendam dos produtos, estoques, logística, etc.
+\_> Tornar o atendimento/interação mais humanizado.
+
+-> Segurança.
+\_> Entrar em sites certificados pelo SSL, com o protocolo de segurança HTTPS.
+\_> Confira a reputação online do site. Exemplo: ReclameAqui, Google, etc. A maioria da população consulta a Google para medir a reputação dos e-commerces. Os sites agora possuem o selo "ebit" para fornecer essa avaliação da reputação de tal estabelecimento.
+
+-> Infra (Infraestrutura).
+\_> Exemplo: AWS da Amazon.
+\_> O sistema precisa ser robustos, para suportar Delivery's e E-Commerce's baixo e de alto acesso, prevendo picos de acesso, controle de concorrência, para não derrubar o sistema, etc.
+
+-> Ferramentas do Google:
+* Google adWords (ADS),
+* Google Shopping,
+* Google Analytics,
+* Google Tag Manager.
+
+\_> Os serviços de Delivery precisam de pessoas que conhecem o Google, SEO, tráfego orgânico, etc.
+
+-> Ferramentas de análise de SEO:
+\_> neilpatel.com,
+\_> semrush.com).
+
+-> Profissões de E-Commerce:
+* Head of Digital, 
+* Dev, 
+* SEO e SEM Manager,
+* Data Analyst,
+* Social Media Manager,
+* UX/UI (User Experience) Manager,
+* Gestor de E-Commerce,
+* Customer Care,
+* Analista de Marketing Digital, BI, * Atendimento, etc.
+
+-> Formação e Perfil:
+\_> Valoriza formação universitária em áreas de tecnologia, economia e gestão. Marketing e marketing digital, photoshop, user experience, domínio de língua inglesa e outras, ciências da comunicação, etc.
+
+\_> Soft Skills mais valorizadas:
+Pensamento analítico, elevada capacidade de comunicação, criatividade, trabalho em equipe, proatividade e paixão, opinião critica, experiência prévia na área, etc.
+
+-> LGPD (Lei Geral de Proteção aos Dados) e todo um ambiente para fornecer segurança nas compras online.
+
+-> Venha trabalhar no meu time (Home-office ainda por cima):
+- React JS
+- Redux
+- Next JS
+- Material-UI
+
+-> Programas utilizados pelo profissional de design: as ferramentas da Adobe.

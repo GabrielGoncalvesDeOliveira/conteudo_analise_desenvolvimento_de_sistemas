@@ -1,0 +1,105 @@
+1-) Faça um algoritmo que leia um número inteiro. Mostre-o somado com 5, caso o número lido seja PAR ou mostre-o multiplicado por 8 caso seja ÍMPAR.
+Para o cálculo do PAR/ÍMPAR, considere:
+
+q = n / 2;
+r = n - q * 2;
+
+Algoritmo leitorDeUmNumero;
+Var
+     resto, quociente, numero: Inteiro;
+Inicio
+     Imprima "Por gentileza, digite um número: ";
+     Leia numero;
+     quociente <- numero / 2;
+     resto <- numero - quociente * 2;
+     Se (resto = 0)
+     Entao { Imprima "O número é PAR, logo: ", numero + 5;
+     Senao { Imprima "O número é ÍMPAR, logo: ", numero * 8;
+Fim
+-------------
+
+2-) Leia atentamente o algoritmo abaixo:
+
+Algoritmo multiplica;
+
+Var
+	a, mult: real;
+Início
+	Imprima “Digite um valor “;
+	Leia a;
+	Se (a >= 5)
+	Então mult = a * 3;
+	Senão mult = a * -1;
+	Imprima “O valor multiplicado é “, mult;
+Fim.
+
+Assinale a alternativa que corresponda ao valor impresso se o usuário digitar o 4 para a variável a.
+
+C-) -4.
+----------------
+
+3-) Construa um algoritmo que leia 3 números reais. A seguir mostre a quantidade de números que são >= 0 e a quantidade de números que são < 0.
+
+Algoritmo leitorDeTresNumerosReais;
+Var
+      primeiro, segundo, terceiro: Real;
+      contadorPositivo, contadorNegativo: inteiro;
+Inicio
+      contadorPositivo <- 0;
+      contadorNegativo <- 0;
+      Imprima "Por gentileza, digite um número: ";
+      Leia primeiro;
+      Imprima "Agora, digite outro número: ";
+      Leia segundo;
+      Imprima "Por fim, digite outro número: ";
+      Leia terceiro;
+      Se (primeiro >= 0)
+      Entao { contadorPositivo = contadorPositivo + 1;
+      Senao { contadorNegativo = contadorNegativo  +1;
+      Se (segundo >= 0)
+      Entao { contadorPositivo = contadorPositivo + 1;
+      Senao { contadorNegativo = contadorNegativo  +1;
+      Se (terceiro >= 0)
+      Entao { contadorPositivo = contadorPositivo + 1;
+      Senao { contadorNegativo = contadorNegativo  +1;
+      Imprima "A quantidade de números maiores ou iguais a zero é: ", contadorPositivo;
+      Imprima "A quantidade de números menores que zero é: ", contadorNegativo; 
+Fim
+----------
+
+4-) Maria recebeu a notícia de que este mês seu salário sofrerá um aumento, mas ela ainda não sabe o valor do aumento. Especula-se que pode ser 5%, 8% ou 10%. Escreva um algoritmo que leia o salário de Maria e mostre os seus três possíveis salários. Este algoritmo não tem Se-Então-Senão.
+
+Algoritmo AumentoDeSalario;
+Var
+     salario: Real;
+Inicio
+     Imprima "Digite o salário atual da Maria: ";
+     Leia salario;
+     Imprima "Caso o aumento do salário de Maria seja de 5%, seu novo salário será: ", salario * 1.05;
+     Imprima "Caso o aumento do salário de Maria seja de 8%, seu novo salário será: ", salario * 1.08;
+     Imprima "Por fim, caso o aumento do salário de Maria seja de 10%, seu novo salário será: ", salario * 1.10;
+Fim
+---------
+
+5-) Escreva um algoritmo que leia a altura e o sexo ("M" ou "F") de uma pessoa. Calcule e mostre seu peso ideal, utilizando uma das seguintes fórmulas:
+Se sexo for "M": (72.7 * altura) – 58;
+Se sexo for "F": (62.1 * altura) – 44.7
+
+Algoritmo CalculadorDePesoIdeal;
+Var
+      altura, pesoIdeal: Real;
+      sexo: Caractere;
+Inicio
+       Imprima "Por gentileza, digite a sua altura: ";
+       Leia altura;
+       Imprima "Agora, digite o seu sexo [M / F]: ";
+       Leia sexo;
+       Se (sexo = "M" OU sexo = "m")
+       Entao { pesoIdeal <- (72.7 * altura) – 58;
+                      Imprima "Como seu sexo é masculino, seu peso ideal é: ", pesoIdeal;
+       Senao Se (sexo = "F" OU sexo = "f")
+                   Entao { pesoIdeal <- (62.1 * altura) – 44.7;
+                               Imprima "Como seu sexo é feminino, seu peso ideal é: ", pesoIdeal;
+                   Senao { Imprima "Sexo inválido!";
+
+Fim

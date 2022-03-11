@@ -1,0 +1,10 @@
+-> Vetor é uma "variável composta" ou "estrutura homogênea unidimensional";
+
+Possui 3 partes fundamentais.
+
+1. A declaração, onde se especifica o nome, o tamanho e o tipo do vetor.
+
+2. O tamanho do vetor, que especifica quantos elementos diferentes podem ser armazenados, ao mesmo tempo, no vetor.
+
+3. Os índices (ou endereços), que se assemelham ao "contador" que aprendemos em estruturas de repetição. Podem ser utilizados como parâmetro/expressão de uma estrutura condicional e, ao final de cada laço/repetição, recebem o incremento de seu valor.
+

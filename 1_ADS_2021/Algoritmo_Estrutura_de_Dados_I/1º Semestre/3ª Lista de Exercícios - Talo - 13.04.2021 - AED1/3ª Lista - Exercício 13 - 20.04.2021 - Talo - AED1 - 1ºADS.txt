@@ -1,0 +1,45 @@
+#include <conio.h>
+#include <iostream>
+using namespace std;
+main()
+{
+float pi=0, d=1;
+int cont = 1;
+while (cont <= 20000){
+pi = pi + 4/d;
+d = d + 2;
+cont = cont + 1;
+pi = pi - 4/d;
+d = d + 2;
+cont = cont + 1;
+}
+// cout << "\n O valor de cont: " << cont;
+cout << "\n\n O valor de PI: " << pi;
+getch();
+}
+
+////// 
+
+#include <conio.h>
+#include <iostream>
+using namespace std;
+main()
+{
+float pin=0, pip=0, d=1;
+int i = 1;
+while (i<=2500){
+pip = pip + 4/d;
+d = d + 4;
+i = i + 1;
+}
+
+i = 1; d=3;
+while (i<=2500){
+pin = pin + 4/d;
+d = d + 4;
+i = i + 1;
+}
+// cout << "\n O valor de i: " << i;
+cout << "\n\n O valor de PI: " << pip-pin;
+getch();
+}
